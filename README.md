@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Waskel</h1>
 <h3 align="center">Student of SGSITS,Passionate coder from INDIA</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/nVnp3AebrakAAAAC/l-death-note-death-note.gif">
 
-<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzgbV8tlHV3cukC_CPdjMDhpEtm_bPvmQ9_A&usqp=CAU" alt="kuldeepwaskel" /> </p>
+<p align="left"> <img src="" alt="kuldeepwaskel" /> </p>
 
 - 🔭 I’m currently working on **my coding Skills**
 
@@ -19,6 +19,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedanshshri7&show_icons=true&locale=en&layout=compact" alt="kuldeepwaskel--" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KuldeepWaskel&show_icons=true&locale=en&layout=compact" alt="kuldeepwaskel--" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedanshshri7&show_icons=true&locale=en" alt="kuldeepwaskel--" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KuldeepWaskel&show_icons=true&locale=en" alt="kuldeepwaskel--" /></p>
